@@ -32,8 +32,8 @@ Example:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/atmos-weather-app.git
-   cd atmos-weather-app
+   git clone https://github.com/Mythili-Velivelli/Atmos.git
+   cd Atmos
    ```
 
 2. Open `index.html` in your browser
@@ -55,5 +55,5 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 - Weather data: [OpenWeatherMap](https://openweathermap.org)  
 - Icons: Custom and open-source icon sets  
-- UI Inspiration & Tutorial from: [YouTube Channel Name] — *(Add the link if you want)*
+- UI Inspiration & Tutorial from: Tech Jaswanth — Youtube
 
